@@ -8,8 +8,8 @@ package put.io.selenium.atm;
  */
 public class AtmCardInfo {
 
-	// 1525
-	final int RIGHT_PIN = 1919;
+	                   // 1525
+	final int RIGHT_PIN = 1525;
 	
 	boolean isCardIn = false;
 	
